@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.bank2022", "Zadanie1\ITMO.bank2022.csproj", "{A1BF9597-E68E-49F9-8D0E-6BB475351DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BF9597-E68E-49F9-8D0E-6BB475351DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BF9597-E68E-49F9-8D0E-6BB475351DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BF9597-E68E-49F9-8D0E-6BB475351DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BF9597-E68E-49F9-8D0E-6BB475351DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3564FC67-6327-4BD5-94E9-5EBC6961A10F}
+	EndGlobalSection
+EndGlobal
