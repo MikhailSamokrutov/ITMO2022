@@ -1,0 +1,6 @@
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+C:\Users\пк\Desktop\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb
