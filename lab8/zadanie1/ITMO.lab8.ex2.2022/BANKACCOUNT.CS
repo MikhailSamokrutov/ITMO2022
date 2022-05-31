@@ -30,6 +30,9 @@
 
     public BankAccount()
     {
+        accNo = NextNumber(); 
+        accType = AccountType.Checking; 
+        accBal = 0;
     }
 
     public bool Withdraw(decimal amount)
