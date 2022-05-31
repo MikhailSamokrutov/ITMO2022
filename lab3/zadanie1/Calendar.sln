@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTMO.calendar.2022", "iTMO.calendar.2022\iTMO.calendar.2022.csproj", "{FC5382F3-19C8-4EBB-A142-2DCCF276BFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5382F3-19C8-4EBB-A142-2DCCF276BFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5382F3-19C8-4EBB-A142-2DCCF276BFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5382F3-19C8-4EBB-A142-2DCCF276BFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5382F3-19C8-4EBB-A142-2DCCF276BFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0BB6B2-32A4-49A8-AD0D-1EDF34D079CB}
+	EndGlobalSection
+EndGlobal
