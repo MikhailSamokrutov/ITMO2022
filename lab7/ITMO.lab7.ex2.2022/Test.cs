@@ -1,24 +1,21 @@
-﻿using System;
+﻿using lab7.ex2;
+using System;
 
 public class Test
 {
     public static void Main()
     {
-        BankAccount b1 = new BankAccount();
-        b1.Populate(100);
+        string message;
 
-        BankAccount b2 = new BankAccount();
-        b2.Populate(100);
+        // Get an input string
+        Console.WriteLine("Enter string to reverse:");
+        message = Console.ReadLine();
 
-        Console.WriteLine("Before transfer");
-        Console.WriteLine("{0} {1} {2}", b1.Type(), b1.Number(), b1.Balance());
-        Console.WriteLine("{0} {1} {2}", b2.Type(), b2.Number(), b2.Balance());
+        // Reverse the string
+        Utils.Reverse(ref message);
 
-        b1.TransferFrom(b2, 10);
-
-        Console.WriteLine("After transfer");
-        Console.WriteLine("{0} {1} {2}", b1.Type(), b1.Number(), b1.Balance());
-        Console.WriteLine("{0} {1} {2}", b2.Type(), b2.Number(), b2.Balance());
+        // Display the result
+        Console.WriteLine(message);
 
     }
 }
